@@ -89,3 +89,6 @@ kde设置字体为无衬线
    在dolphin 网络中添加网络地址
    安装kio相关依赖，不全可能导致某些文件打不开，[kio](https://wiki.archlinux.org/index.php/KDE#Samba/Windows_support)不如隔壁gnome家的[gvfs-smb](https://www.archlinux.org/packages/?name=gvfs-smb) 
    在vlc->设置->输入/编解码器->访问模块->SMB配置账号信息 域一般为WORKGROUP
+
+## 7.其他
+
